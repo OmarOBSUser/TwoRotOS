@@ -1,2 +1,1 @@
-# TwoRotOS
-Program for Personal Use
+# ROTTY
